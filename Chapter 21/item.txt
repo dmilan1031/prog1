@@ -1,0 +1,10 @@
+1 Alma 1.1
+2 Barack 3.5
+3 Csizma 0.3
+4 Dió 5
+5 Eper 6.8
+6 Fóka 8.8
+7 Gyémánt 10
+8 Hal 4.43
+9 Xilofon 1.23
+10 Zebra 7
